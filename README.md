@@ -18,7 +18,7 @@ Skills:
 ## Projects:
 
 - [school managment 1](https://github.com/MujtabaCoder/School-Management-.git): .
-- [Tick my seat  2](link-to-project-repository-or-demo](https://github.com/MujtabaCoder/Tick-my-seat-.git)): 
+- [Tick my seat  2](https://github.com/MujtabaCoder/Tick-my-seat-.git): 
 
 ## Contact Me:
 
