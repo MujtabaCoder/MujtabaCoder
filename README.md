@@ -22,7 +22,7 @@ Skills:
 
 ## Contact Me:
 
-- LinkedIn: [ LinkedIn Profile](linkedin.com/in/mujtaba-sunsera-7287291b8)
-- Email: mujtabasunsera2002@gmail.com
+- LinkedIn: [ LinkedIn Profile](linkedin.com/in/mujtaba-sunsera)
+- Email: mujtabacoder@gmail.com
 - phone: 7021561890
 Feel free to reach out to me for collaboration opportunities or to discuss tech-related topics. Let's connect and build something amazing together!
