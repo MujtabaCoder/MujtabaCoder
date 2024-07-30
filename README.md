@@ -20,11 +20,13 @@
 
 - [School Management](https://github.com/MujtabaCoder/School-Management-.git): Efficiently manage your school's operations with this comprehensive system.
 - [Tick My Seat](https://github.com/MujtabaCoder/Tick-my-seat-.git): An innovative solution for hassle-free seat booking.
-
+- [E-com website (shopper)](https://github.com/MujtabaCoder/shopper): A perfect solution for online watch selling bussiness.
+- [RMS restaurant managament system ](https://github.com/MujtabaCoder/RMS-restaurant-management-system-nodejs)A restaurant management system (RMS) for efficiently managing sales, orders, inventory, and customer data with comprehensive reporting features.
+:
 ## Let's Connect 🌐
 
 Feel free to reach out to me for collaboration opportunities or to discuss tech-related topics. Let's connect and build something amazing together!
 
-- LinkedIn: [Mujtaba Sunsera](linkedin.com/in/mujtaba-sunsera)
-- Email: mujtabacoder@gmail.com
+- LinkedIn: [Mujtaba Sunsera](https://www.linkedin.com/in/mujtaba-sunsera/)
+- Email: mujtabacooder@gmail.com
 - Phone: 7021561890
