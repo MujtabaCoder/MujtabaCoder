@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fmujtaba-ch--1135047912315858885%2F&psig=AOvVaw2uu8WKVIaH9Kw_FIJWKqpq&ust=1722417103067000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjZofm1zocDFQAAAAAdAAAAABAE" alt="Mujtaba Sunsera" width="200px">
+  
   <h1>Hello, I'm Mujtaba Sunsera! 👋</h1>
   <p>I'm passionate about contributing to innovative projects and delivering impactful solutions in the tech industry.</p>
 </div>
