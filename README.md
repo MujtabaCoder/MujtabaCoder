@@ -26,7 +26,6 @@
 
 <div align="center">
   <table>
-    
     <tr>
       <td><b>🛍️ <a href="https://github.com/MujtabaCoder/shopper">E-com Website (Shopper)</a></b></td>
       <td>A perfect solution for online watch selling business.</td>
