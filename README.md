@@ -35,7 +35,7 @@
       <td>A restaurant management system (RMS) for efficiently managing sales, orders, inventory, and customer data with comprehensive reporting features.</td>
     </tr>
     <tr>
-      <td><b>📚 <a href="https://github.com/MujtabaCoder/School-Management--Django-t">School Management</a></b></td>
+      <td><b>📚 <a href="https://github.com/MujtabaCoder/School-Management--Django">School Management</a></b></td>
       <td>Efficiently manage your school's operations with this comprehensive system.</td>
     </tr>
     <tr>
