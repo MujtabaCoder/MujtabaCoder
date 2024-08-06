@@ -35,11 +35,11 @@
       <td>A restaurant management system (RMS) for efficiently managing sales, orders, inventory, and customer data with comprehensive reporting features.</td>
     </tr>
     <tr>
-      <td><b>📚 <a href="https://github.com/MujtabaCoder/School-Management--Django-.git">School Management</a></b></td>
+      <td><b>📚 <a href="https://github.com/MujtabaCoder/School-Management--Django-t">School Management</a></b></td>
       <td>Efficiently manage your school's operations with this comprehensive system.</td>
     </tr>
     <tr>
-      <td><b>🎟️ <a href="https://github.com/MujtabaCoder/Tick-my-seat-.git">Tick My Seat</a></b></td>
+      <td><b>🎟️ <a href="https://github.com/MujtabaCoder/Tick-My-Seat/tree/main">Tick My Seat</a></b></td>
       <td>An innovative solution for hassle-free seat booking.</td>
     </tr>
   </table>
